@@ -37,9 +37,9 @@ Project: rhel-identity-preflight
 What It Demonstrates: DNS, hostname, time, ports, and identity prerequisites for RHEL domain integration
 Status: Planned
 
-Project: selinux-troubleshooting-lab
-What It Demonstrates: Denial analysis, labeling, booleans, policy decisions, and secure validation
-Status: Planned
+Project: [selinux-troubleshooting-lab](https://github.com/ann1ckab1ss3/selinux-troubleshooting-lab)
+What It Demonstrates: RHEL lab covering AVC analysis, persistent file contexts, port labeling, booleans, and secure policy decisions
+Status: ✅ Live
 
 Project: rhel-ansible-baseline
 What It Demonstrates: Repeatable configuration for packages, users, time, logging, and security controls
