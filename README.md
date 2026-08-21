@@ -33,9 +33,9 @@ Project: [nfs-autofs-lab](https://github.com/ann1ckab1ss3/nfs-autofs-lab)
 What It Demonstrates: Reproducible RHEL lab covering NFS, autofs, SELinux, failure injection, and structured troubleshooting
 Status: ✅ Live
 
-Project: rhel-identity-preflight
-What It Demonstrates: DNS, hostname, time, ports, and identity prerequisites for RHEL domain integration
-Status: Planned
+Project: [rhel-identity-preflight](https://github.com/ann1ckab1ss3/rhel-identity-preflight) 
+What It Demonstrates: Read-only validation of AD DNS, Kerberos, LDAP, time, ports, SSSD, and identity resolution on RHEL
+Status: ✅ Live
 
 Project: [selinux-troubleshooting-lab](https://github.com/ann1ckab1ss3/selinux-troubleshooting-lab)
 What It Demonstrates: RHEL lab covering AVC analysis, persistent file contexts, port labeling, booleans, and secure policy decisions
