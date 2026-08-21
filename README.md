@@ -25,9 +25,9 @@ Project: [system-health-check](https://github.com/ann1ckab1ss3/system-health-che
 What It Demonstrates: Bash-based checks for filesystems, memory, failed services, logs, networking, and time synchronization
 Status: ✅ Live
 
-Project: audit-capacity-guard
-What It Demonstrates: Audit-log capacity monitoring, safe archiving, alert thresholds, and recovery validation
-Status: Planned
+Project: [audit-capacity-guard](https://github.com/ann1ckab1ss3/audit-capacity-guard)
+What It Demonstrates: Read-only RHEL audit-log capacity monitoring, systemd scheduling, and evidence-preserving recovery
+Status: ✅ Live 
 
 Project: [nfs-autofs-lab](https://github.com/ann1ckab1ss3/nfs-autofs-lab)
 What It Demonstrates: Reproducible RHEL lab covering NFS, autofs, SELinux, failure injection, and structured troubleshooting
