@@ -29,9 +29,9 @@ Project: audit-capacity-guard
 What It Demonstrates: Audit-log capacity monitoring, safe archiving, alert thresholds, and recovery validation
 Status: Planned
 
-Project: nfs-autofs-lab
-What It Demonstrates: NFS server/client deployment, autofs maps, failure injection, and structured troubleshooting
-Status: Planned
+Project: [nfs-autofs-lab](https://github.com/ann1ckab1ss3/nfs-autofs-lab)
+What It Demonstrates: Reproducible RHEL lab covering NFS, autofs, SELinux, failure injection, and structured troubleshooting
+Status: ✅ Live
 
 Project: rhel-identity-preflight
 What It Demonstrates: DNS, hostname, time, ports, and identity prerequisites for RHEL domain integration
