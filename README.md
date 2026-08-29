@@ -45,6 +45,10 @@ Project: [rhel-ansible-baseline-lab](https://github.com/ann1ckab1ss3/rhel-ansibl
 What It Demonstrates: Repeatable configuration for packages, users, time, logging, and security controls
 Status: ✅ Live
 
+Project: [rootless-podman-lab](https://github.com/ann1ckab1ss3/rootless-podman-lab)
+What It Demonstrates: Container deployment, persistent storage, systemd integration, health checks, resource limits, SELinux labeling, troubleshooting, and rootless operation
+Status: ✅ Live
+
 Project: [splunk-security-lab](https://github.com/ann1ckab1ss3/splunk-security-lab)
 What It Demonstrates: Centralized Linux and Windows event collection, searches, dashboards, and failure analysis
 Status: ✅ Live
