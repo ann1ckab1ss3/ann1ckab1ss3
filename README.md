@@ -41,13 +41,13 @@ Project: [selinux-troubleshooting-lab](https://github.com/ann1ckab1ss3/selinux-t
 What It Demonstrates: RHEL lab covering AVC analysis, persistent file contexts, port labeling, booleans, and secure policy decisions
 Status: ✅ Live
 
-Project: rhel-ansible-baseline
+Project: [rhel-ansible-baseline-lab](https://github.com/ann1ckab1ss3/rhel-ansible-baseline)
 What It Demonstrates: Repeatable configuration for packages, users, time, logging, and security controls
-Status: Planned
+Status: ✅ Live
 
-Project: splunk-security-lab
+Project: [splunk-security-lab](https://github.com/ann1ckab1ss3/splunk-security-lab)
 What It Demonstrates: Centralized Linux and Windows event collection, searches, dashboards, and failure analysis
-Status: In progress
+Status: ✅ Live
 
 Repositories will be linked here as each project is published.
 
